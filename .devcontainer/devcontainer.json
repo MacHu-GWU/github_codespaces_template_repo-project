@@ -1,5 +1,9 @@
 {
     "name": "clean-env",
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-    "dotfiles.repository": ""
+    "customizations": {
+        "codespaces": {
+            "dotfiles": false
+        }
+    }
 }
