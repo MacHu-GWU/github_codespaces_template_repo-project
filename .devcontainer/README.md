@@ -1,1 +1,2 @@
-For detailed specification on how to use ``devcontainer.json`` please read: https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers.
+- To understand how `devcontainer.json` works, see: [Introduction to dev containers](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers)
+- For the detailed JSON key/value specification, see: [devcontainer.json spec](https://containers.dev/implementors/spec/)
