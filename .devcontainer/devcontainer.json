@@ -1,0 +1,5 @@
+{
+    "name": "clean-env",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "dotfiles.repository": ""
+}
