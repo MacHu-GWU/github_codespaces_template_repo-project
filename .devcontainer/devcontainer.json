@@ -1,4 +1,11 @@
 {
     "name": "clean-env",
-    "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.defaultProfile.linux": "zsh"
+            }
+        }
+    }
 }
